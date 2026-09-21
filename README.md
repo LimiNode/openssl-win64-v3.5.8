@@ -21,6 +21,8 @@ Productions hash manifest. The repository contains the extracted development
 files needed by the Kurlyk CMake fallback; the original installer is not stored
 here.
 
+Checksum source: <https://github.com/slproweb/opensslhashes/blob/master/win32_openssl_hashes.json>
+
 ## Contents
 
 ```text
